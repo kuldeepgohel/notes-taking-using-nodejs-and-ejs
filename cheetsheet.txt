@@ -1,0 +1,21 @@
+ initialize a project with npm 
+ install express
+
+ setting up parsers for form 
+ setting up ejs for ejs pages 
+    install ejs from npm 
+    setup ejs as a view engine 
+
+    
+ setting up public static files 
+ 
+ dynamic routing 
+    sabse phle browser pr  jao 
+    url likho jo aapko chaliye and enter kro 
+    ab us url  route ko create kriye 
+    res bhejiye kuchh bhi
+    ab usi url ko dynamic banana he to realise kro konsa part dynamic he aur us part k aage route mein ":" lagado
+
+
+
+
